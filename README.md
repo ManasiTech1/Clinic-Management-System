@@ -11,8 +11,8 @@ The **Clinic Management System** is a web-based application designed to streamli
 The client-side application is responsible for user interaction and comprises the following modules:
 - **Receptionist Module:**
   - Register patients with personal details.
-  - System assigns sequential token numbers to patients.
-  - Generate bills
+  - System assigns sequential token numbers to the patients.
+  - Generate bills.
   - View patient records.
 - **Doctor Module:**
   - Access patient details using token numbers.
