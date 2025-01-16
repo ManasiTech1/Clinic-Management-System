@@ -89,7 +89,7 @@ Selecting First Patient for Bill Generation
 First Patient Bill Generation Amount
 <img width="960" alt="Screenshot 2025-01-16 050452" src="https://github.com/user-attachments/assets/cc7e4746-0b30-4c0d-b567-0e163683ae22" />
 
-Succesful Bill Generation of First Patient
+Successful Bill Generation of First Patient
 <img width="960" alt="Screenshot 2025-01-16 050507" src="https://github.com/user-attachments/assets/fa3aa5a3-e54b-4be8-ab10-2633b623dad1" />
 
 Adding Second Patient Details
@@ -104,7 +104,7 @@ Selecting Second Patient for Bill Generation
 Second Patient Bill Generation Amount
 <img width="960" alt="Screenshot 2025-01-16 050731" src="https://github.com/user-attachments/assets/86286903-d22a-4a1a-9c80-5d9c8c845fbb" />
 
-Succesful Bill Generation of Second Patient
+Successful Bill Generation of Second Patient
 <img width="960" alt="Screenshot 2025-01-16 050745" src="https://github.com/user-attachments/assets/082ab65c-9d24-4974-992e-f534406e6751" />
 
 Receptionist Logout
