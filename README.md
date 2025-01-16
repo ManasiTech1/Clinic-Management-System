@@ -71,7 +71,7 @@ Home Page: Registeration
 Receptionist Registration
 <img width="960" alt="Screenshot 2025-01-16 050141" src="https://github.com/user-attachments/assets/1c6de633-29b8-40e2-9541-9d816416b426" />
 
-Successful Receptionist Registration Confirmation
+Receptionist Registration Success Confirmation
 <img width="960" alt="Screenshot 2025-01-16 050156" src="https://github.com/user-attachments/assets/78270e1f-fbdc-4647-a8b5-a0c12e3e83c8" />
 
 Receptionist Login
@@ -80,7 +80,7 @@ Receptionist Login
 Adding First Patient Details
 <img width="960" alt="Screenshot 2025-01-16 050328" src="https://github.com/user-attachments/assets/10a20e07-f129-420a-aeca-48a3035d7794" />
 
-Successful First Patient Addition and System Token Generation
+Successful Addition of First Patient and System Token Generation
 <img width="960" alt="Screenshot 2025-01-16 050350" src="https://github.com/user-attachments/assets/52531011-12f7-4917-958f-a343e6c19667" />
 
 Selecting First Patient for Bill Generation
@@ -95,7 +95,7 @@ Successful Bill Generation of First Patient
 Adding Second Patient Details
 <img width="960" alt="Screenshot 2025-01-16 050632" src="https://github.com/user-attachments/assets/00d81b16-a7d6-483c-90a6-0e6740d31876" />
 
-Successful Second Patient Addition and System Token Generation
+Successful Addition of Second Patient and System Token Generation
 <img width="960" alt="Screenshot 2025-01-16 050649" src="https://github.com/user-attachments/assets/ac2bf7d1-705a-47cc-9cbb-88c0d361b53d" />
 
 Selecting Second Patient for Bill Generation
@@ -113,7 +113,7 @@ Receptionist Logout
 Doctor Registration
 <img width="960" alt="Screenshot 2025-01-16 050854" src="https://github.com/user-attachments/assets/1f7a2b5e-2666-4618-a303-42b780f48cbf" />
 
-Successful Doctor Registration Confirmation
+Doctor Registration Success Confirmation
 <img width="960" alt="Screenshot 2025-01-16 050911" src="https://github.com/user-attachments/assets/83b4f0b7-4996-4b4f-b491-952a95534e72" />
 
 Doctor Login
