@@ -2,6 +2,8 @@
 
 The **Clinic Management System** is a web-based application designed to streamline operations in a clinic. It facilitates seamless interaction between receptionists and doctors while managing patient records, prescriptions and billing. The system is built with **HTML**, **CSS**, **JavaScript** and leverages **Firebase** for backend services.
 
+---
+
 ## Architecture
 
 ### 1. Frontend (Client-Side Application)
@@ -32,6 +34,8 @@ The system uses Firebase for backend services:
 - **Firebase Hosting:**
   - Hosts the web application, ensuring global availability and fast response times.
 
+---
+
 ## Workflow
 ![image](https://github.com/user-attachments/assets/ac39506e-1e7d-4802-a5c4-d230038c9350)
 
@@ -53,12 +57,16 @@ The system uses Firebase for backend services:
 - Both the receptionist and doctor can view patient history.
 - History is fetched from Firestore for easy tracking of past visits.
 
+===
+
 ## Security and Access Control
 - **Role-Based Access:**
   - Receptionist: Register patients, view patient records and generate bills.
   - Doctor: Add prescriptions and view patient records.
 - **Firestore Security Rules:**
   - Restrict read and write access based on the user’s role and authentication status.
+
+---
 
 ## Key Advantages
 1. **Scalability:**
@@ -71,6 +79,8 @@ The system uses Firebase for backend services:
    - Firebase Hosting makes the application globally accessible with minimal effort.
 5. **Data Consistency:**
    - Using `serverTimestamp` ensures reliable and consistent timestamps.
+
+---
 
 ## Future Enhancements
 This architecture is designed to be flexible and scalable, allowing for potential future features such as:
