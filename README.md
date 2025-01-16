@@ -62,7 +62,7 @@ The system uses Firebase for backend services:
 
 ## Security and Access Control
 - **Role-Based Access:**
-  - Receptionist: Register patients, view patient records and create bills.
+  - Receptionist: Register patients, view patient records and generate bills.
   - Doctor: Add prescriptions and view patient records.
 - **Firestore Security Rules:**
   - Restrict read and write access based on the user’s role and authentication status.
