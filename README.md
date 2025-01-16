@@ -80,7 +80,7 @@ Receptionist Login
 Adding First Patient Details
 <img width="960" alt="Screenshot 2025-01-16 050328" src="https://github.com/user-attachments/assets/10a20e07-f129-420a-aeca-48a3035d7794" />
 
-Successful Patient Addition and System Token Generation
+Successful First Patient Addition and System Token Generation
 <img width="960" alt="Screenshot 2025-01-16 050350" src="https://github.com/user-attachments/assets/52531011-12f7-4917-958f-a343e6c19667" />
 
 Selecting First Patient for Bill Generation
@@ -95,7 +95,7 @@ Succesful Bill Generation of First Patient
 Adding Second Patient Details
 <img width="960" alt="Screenshot 2025-01-16 050632" src="https://github.com/user-attachments/assets/00d81b16-a7d6-483c-90a6-0e6740d31876" />
 
-Successful Patient Addition and System Token Generation
+Successful Second Patient Addition and System Token Generation
 <img width="960" alt="Screenshot 2025-01-16 050649" src="https://github.com/user-attachments/assets/ac2bf7d1-705a-47cc-9cbb-88c0d361b53d" />
 
 Selecting Second Patient for Bill Generation
