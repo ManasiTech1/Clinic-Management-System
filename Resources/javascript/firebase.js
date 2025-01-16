@@ -5,12 +5,12 @@ import { getFirestore } from 'https://www.gstatic.com/firebasejs/9.17.1/firebase
 
 // Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyCUR2Ntj6h7AfIssMy2KaF4oeFU4D_yRR8",
-    authDomain: "clinic-management-4cbdb.firebaseapp.com",
-    projectId: "clinic-management-4cbdb",
-    storageBucket: "clinic-management-4cbdb.firebasestorage.app",
-    messagingSenderId: "348038473466",
-    appId: "1:348038473466:web:af174ccc5ffc7a92110b43"
+    apiKey: "XXXXXX",
+    authDomain: "XXXXXX.firebaseapp.com",
+    projectId: "XXXXXX",
+    storageBucket: "XXXXXX.firebasestorage.app",
+    messagingSenderId: "XXXXXX12345",
+    appId: "1:XXXX:web:XXXXXX"
   };
 
 // Initialize Firebase App
